@@ -27,7 +27,7 @@ body {
 }
 
 a {
-  color: rgb(35, 36, 92);
+  color: #0395DE;
   text-decoration: none;
   -webkit-transition: color 0.5s;
   transition: color 0.5s;
@@ -40,11 +40,11 @@ a {
 }
 
 ::selection {
-  background-color: rgb(28, 30, 119);
+  background-color: #0395DE;
   color: white;
 }
 
 ::-moz-selection {
-  background-color: rgb(28, 30, 119);
+  background-color: #0395DE;
   color: white;
 }
