@@ -27,7 +27,7 @@ body {
 }
 
 a {
-  color: #0395DE;
+  color: $primary-color;
   text-decoration: none;
   -webkit-transition: color 0.5s;
   transition: color 0.5s;
@@ -40,11 +40,11 @@ a {
 }
 
 ::selection {
-  background-color: #0395DE;
+  background-color: $primary-color;
   color: white;
 }
 
 ::-moz-selection {
-  background-color: #0395DE;
+  background-color: $primary-color;
   color: white;
 }

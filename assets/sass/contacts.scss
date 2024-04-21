@@ -19,7 +19,7 @@
     transition: all 0.3s ease-in-out;
   }
   .contact:hover {
-    background: #0395DE;
+    background: $primary-color;
     color: #fff;
     box-shadow: 0 0 1px 7px rgba(48, 38, 182, 0.15);
     position: relative;
